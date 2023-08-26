@@ -1,0 +1,144 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nitem-1 {
+    align-items: center !important;
+    color: #212244 !important;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.navwidth {
+    height: 50px;
+    align-items: center !important;
+}
+
+.ab {
+    text-decoration: none;
+    color: #212244 !important;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nitem-1>input {
+    border: none;
+    border-radius: 8px;
+    width: 222px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+.btn-danger {
+    --bs--btn-padding-x: 1rem;
+    --bs-btn-padding-y: 0.25rem;
+}
+
+.section-1 {
+    width: 90%;
+    height: 450px;
+    margin: auto;
+    background-image: linear-gradient(to right, rgb(255 250 250), rgb(228, 225, 219));
+}
+
+.part-1 {
+    width: 50%;
+}
+
+.part-2 {
+    width: 50%;
+}
+
+.left {
+    width: 48%;
+    margin: auto;
+}
+
+.para-1>p {
+
+    font-size:
+        color: #212244 !important;
+
+}
+
+.part-1-btn {
+    width: 50% !important;
+    font-size: x-small;
+}
+
+.textsmall {
+    font-size: 12px;
+    font-family: Poppins !important;
+    font-weight: 400;
+}
+
+.part-2>img {
+
+    height: 350px;
+    width: 90%;
+    margin: auto;
+}
+.section-2, .section-3{
+    width: 80%;
+    margin: auto;
+}
+.st-sec,.chicken,.scooty,.mobile{
+    width: 212px;
+    height: 220px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+.st-sec>p{
+    font-size: small;
+
+}
+
+.scooty>img,.mobile>img,.chicken>img,.st-sec>img{
+    margin-top: 20px;
+    margin-bottom: 10PX;
+    height: 100px;
+    width: 100px;
+}
+.scooty>h4,.mobile>h4,.chicken>h4{
+   margin-left: 20px; 
+}
+.menu-list>a{
+    color: var(--food-delivery-pg, #212244);
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+.menu-list>a:hover{
+    color: rgb(255, 55, 5);
+    text-decoration: underline;
+}
+.scooty>h6,.mobile>h6,.chicken>h6{
+    margin-left: 20px; 
+ }
+.st-sec>.fastfood,.chicken>.fastfood,.scooty>.fastfood,.mobile>.fastfood{
+    height: 15px;
+    width: 50px;
+}
+.section-4{
+    height: 322px;
+}
+.section-4>.sec-4-ht{
+height: 260px !important;
+
+
+}
+.fastfood-btn{
+    margin-bottom: 10px !important;
+    margin-bottom: 10px;
+}
